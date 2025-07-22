@@ -60,7 +60,19 @@ const App = () => {
         <div>
           <h4>Your go-to resource for Tailwind CSS</h4>
         </div>
-
+              <div>
+                {/* Additional card added here */}
+                <div>
+                  <img src="" alt="" srcset="" />
+                  <div>
+                    <span>Card Title</span>
+                    <span>Card Description</span>
+                  </div>
+                  <div>
+                    <button>Learn More</button>
+                  </div>
+                  </div>
+              </div>
        </main>
        
     </div>

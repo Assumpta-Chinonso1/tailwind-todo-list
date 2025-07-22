@@ -4,8 +4,9 @@ const App = () => {
   return (
     <div>
 
+      
 
-      <div> <!---Beginning of the navigation bar--->
+      <div> {/*--Start of the navigation bar --*/}
          <nav>
           <div>
             <li>
@@ -30,7 +31,8 @@ const App = () => {
             </li>
           </ul>
          </nav>
-      </div> <!---End of the navigation bar--->
+      </div>  {/*---End of the navigation bar---*/}
+
        <main>
         <div>
           <a href="#">Log in</a>

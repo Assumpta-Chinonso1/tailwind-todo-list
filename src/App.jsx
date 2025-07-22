@@ -4,7 +4,11 @@ const App = () => {
   return (
     <div>
       <div>
-        
+         <nav>
+          <div>
+            <li>Tailwind </li>
+          </div>
+         </nav>
       </div>
     </div>
   )

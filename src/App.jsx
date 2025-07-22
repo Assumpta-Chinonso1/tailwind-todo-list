@@ -36,6 +36,10 @@ const App = () => {
           <a href="#">Log in</a>
           <a href="#">Sign up</a>
         </div>
+        <header>
+          <h2>Welcome to Tailwind</h2>
+          <h3>Your one-stop solution for modern web design</h3>
+        </header>
        </main>
     </div>
   )

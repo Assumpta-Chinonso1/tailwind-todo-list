@@ -31,6 +31,12 @@ const App = () => {
           </ul>
          </nav>
       </div> <!---End of the navigation bar--->
+       <main>
+        <div>
+          <a href="#">Log in</a>
+          <a href="#">Sign up</a>
+        </div>
+       </main>
     </div>
   )
 }

@@ -49,6 +49,7 @@ const App = () => {
             <img src="" alt="" srcset="" />
                <div>
                 <span>Card Title</span>
+                <span>Card Description</span>
                </div>
           </div>
         </div>

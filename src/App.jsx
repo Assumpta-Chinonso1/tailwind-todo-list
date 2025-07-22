@@ -42,6 +42,16 @@ const App = () => {
           <h2>Welcome to Tailwind</h2>
           <h3>Your one-stop solution for modern web design</h3>
         </header>
+        <div>
+          <h4>Your go-to resource for Tailwind CSS</h4>
+          <div>
+            {/* Cards go here */}
+            <img src="" alt="" srcset="" />
+               <div>
+                <span>Card Title</span>
+               </div>
+          </div>
+        </div>
        </main>
     </div>
   )

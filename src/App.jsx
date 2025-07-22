@@ -6,7 +6,9 @@ const App = () => {
       <div>
          <nav>
           <div>
-            <li>Tailwind </li>
+            <li>
+              <a href="/">Tailwind</a>
+            </li>
           </div>
          </nav>
       </div>

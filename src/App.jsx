@@ -12,8 +12,9 @@ const App = () => {
           </div>
           <ul>
             <li>
-              <a href="#"></a>
+              <a href="#">
               <span>Home</span>
+              </a>
             </li>
           </ul>
          </nav>

@@ -3,7 +3,9 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <div>
+
+
+      <div> <!---Beginning of the navigation bar--->
          <nav>
           <div>
             <li>
@@ -28,7 +30,7 @@ const App = () => {
             </li>
           </ul>
          </nav>
-      </div>
+      </div> <!---End of the navigation bar--->
     </div>
   )
 }

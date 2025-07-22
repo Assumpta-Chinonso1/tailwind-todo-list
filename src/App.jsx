@@ -53,6 +53,7 @@ const App = () => {
                </div>
           </div>
         </div>
+        <h4>Your go-to resource for Tailwind CSS</h4>
        </main>
     </div>
   )

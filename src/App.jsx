@@ -16,6 +16,16 @@ const App = () => {
               <span>Home</span>
               </a>
             </li>
+            <li>
+              <a href="#">
+                <span>About</span>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <span>Contact</span>
+              </a>
+            </li>
           </ul>
          </nav>
       </div>

@@ -11,7 +11,10 @@ const App = () => {
             </li>
           </div>
           <ul>
-            
+            <li>
+              <a href="#"></a>
+              <span>Home</span>
+            </li>
           </ul>
          </nav>
       </div>

@@ -3,7 +3,7 @@ import image1 from './assets/tailwind.jpg'
 
 const App = () => {
   return (
-    <div className='text-gray-700' >
+    <div className='text-gray-600' >
 
       
 
@@ -15,7 +15,8 @@ const App = () => {
             </li>
           </div>
           <ul>
-            <li>
+            <li className='text-gray-700' > 
+            
               <a href="#">
               <span>Home</span>
               </a>

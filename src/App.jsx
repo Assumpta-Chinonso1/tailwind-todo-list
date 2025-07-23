@@ -50,7 +50,7 @@ const App = () => {
           <h4 className='font-bold mt-4 pb-5'>Your go-to resource for Tailwind CSS</h4>
          
             {/* Cards go here */}
-            <div>
+            <div className='mt-8'>
             <img src={image1} alt="" srcset="" />
             
                <div>
@@ -59,7 +59,7 @@ const App = () => {
                </div>
           </div>
         </div>
-        <div>
+        <div className='mt-8'>
           <h4 className='font-bold mt-4 pb-5'>Your go-to resource for Tailwind CSS</h4>
         </div>
               <div>

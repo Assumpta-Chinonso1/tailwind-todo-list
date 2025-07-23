@@ -12,8 +12,7 @@ const App = () => {
           <div>
             <h1 className='font-bold uppercase p-4 border-b border-gray-100'>
               <a href="/">Tailwind</a>
-              <h1 class="text-red-500 text-5xl">Hello Tailwind</h1>
-
+              
             </h1>
           </div>
           <ul>

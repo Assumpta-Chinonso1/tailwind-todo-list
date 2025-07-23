@@ -1,4 +1,5 @@
-/** @type {import('tailwindcss').Config} */
+
+  /** @type {import('tailwindcss').Config} */
 export default {
   content: [
     "./index.html",
@@ -13,12 +14,14 @@ export default {
       xl: '1280px',
       '2xl': '1536px',
     },
-    colors: {
+        colors: {
       inherit: 'inherit',
       current: 'currentColor',
       transparent: 'transparent',
       black: '#000',
       white: '#fff',
+        },
+
       slate: {
         50: '#f8fafc',
         100: '#f1f5f9',
@@ -214,9 +217,6 @@ export default {
         900: '#831843',
         950: '#500724',
       },
-      primary: '#8758ff',
-      secondary: '#ff58a6',
-    },
     spacing: {
       px: '1px',
       0: '0px',
@@ -263,33 +263,33 @@ export default {
       poppins: ['Poppins', 'sans-serif'],
     },
     fontSize: {
-  xs: ['0.75rem', { lineHeight: '1rem' }],      // 12px
-  sm: ['0.875rem', { lineHeight: '1.25rem' }],   // 14px
-  base: ['1rem', { lineHeight: '1.5rem' }],      // 16px
-  lg: ['1.125rem', { lineHeight: '1.75rem' }],   // 18px
-  xl: ['1.25rem', { lineHeight: '1.75rem' }],    // 20px
-  '2xl': ['1.5rem', { lineHeight: '2rem' }],     // 24px
-  '3xl': ['1.875rem', { lineHeight: '2.25rem' }],// 30px
-  '4xl': ['2.25rem', { lineHeight: '2.5rem' }],  // 36px
-  '5xl': ['3rem', { lineHeight: '1' }],          // 48px
-  '6xl': ['3.75rem', { lineHeight: '1' }],       // 60px
-  '7xl': ['4.5rem', { lineHeight: '1' }],        // 72px
-  '8xl': ['6rem', { lineHeight: '1' }],          // 96px
-  '9xl': ['8rem', { lineHeight: '1' }],          // 128px
-},
-fontWeight: {
-  thin: '100',
-  extralight: '200',
-  light: '300',
-  normal: '400',
-  medium: '500',
-  semibold: '600',
-  bold: '700',
-  extrabold: '800',
-  black: '900',
-},
-
-    extend: {},
+      xs: ['0.75rem', { lineHeight: '1rem' }],
+      sm: ['0.875rem', { lineHeight: '1.25rem' }],
+      base: ['1rem', { lineHeight: '1.5rem' }],
+      lg: ['1.125rem', { lineHeight: '1.75rem' }],
+      xl: ['1.25rem', { lineHeight: '1.75rem' }],
+      '2xl': ['1.5rem', { lineHeight: '2rem' }],
+      '3xl': ['1.875rem', { lineHeight: '2.25rem' }],
+      '4xl': ['2.25rem', { lineHeight: '2.5rem' }],
+      '5xl': ['3rem', { lineHeight: '1' }],
+      '6xl': ['3.75rem', { lineHeight: '1' }],
+      '7xl': ['4.5rem', { lineHeight: '1' }],
+      '8xl': ['6rem', { lineHeight: '1' }],
+      '9xl': ['8rem', { lineHeight: '1' }],
+      mammoth: ['20rem', { lineHeight: '1' }],
+    },
+    fontWeight: {
+      thin: '100',
+      extralight: '200',
+      light: '300',
+      normal: '400',
+      medium: '500',
+      semibold: '600',
+      bold: '700',
+      extrabold: '800',
+      black: '900',
+    },
   },
   plugins: [],
-}
+};
+

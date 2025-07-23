@@ -47,7 +47,7 @@ const App = () => {
         </header>
 
         <div>
-          <h4>Your go-to resource for Tailwind CSS</h4>
+          <h4 className='font-bold'>Your go-to resource for Tailwind CSS</h4>
          
             {/* Cards go here */}
             <div>
@@ -60,7 +60,7 @@ const App = () => {
           </div>
         </div>
         <div>
-          <h4>Your go-to resource for Tailwind CSS</h4>
+          <h4 className='font-bold'>Your go-to resource for Tailwind CSS</h4>
         </div>
               <div>
                 {/* Additional card added here */}

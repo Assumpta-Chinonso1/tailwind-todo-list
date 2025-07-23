@@ -36,10 +36,10 @@ const App = () => {
          </nav>
       </div>  {/*---End of the navigation bar---*/}
 
-       <main className='px-16 py-6' >
+       <main className='px-16 py-6 ' >
         <div>
-          <a href="#">Log in</a>
-          <a href="#">Sign up</a>
+          <a href="#" className='text-[#FF6363]'>Login</a>
+          <a href="#">Signup</a>
         </div>
 
         <header>

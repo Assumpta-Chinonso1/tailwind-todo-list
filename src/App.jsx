@@ -43,7 +43,7 @@ const App = () => {
 
         <header>
           <h2 className='text-gray-700 text-6xl'>Welcome to Tailwind</h2>
-          <h3 className='text-2xl'>Your one-stop solution for modern web design</h3>
+          <h3 className='text-2xl text-2xl'>Your one-stop solution for modern web design</h3>
         </header>
 
         <div>

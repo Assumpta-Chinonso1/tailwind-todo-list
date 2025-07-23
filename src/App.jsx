@@ -10,9 +10,9 @@ const App = () => {
       <div> {/*--Start of the navigation bar --*/}
          <nav>
           <div>
-            <li>
+            <h1 className='font-bold uppercase'>
               <a href="/">Tailwind</a>
-            </li>
+            </h1>
           </div>
           <ul>
             <li class='text-gray-900' > 

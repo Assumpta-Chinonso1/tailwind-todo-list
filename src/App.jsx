@@ -15,7 +15,7 @@ const App = () => {
             </h1>
           </div>
           <ul>
-            <li class='text-gray-900' > 
+            <li class='text-gray-900 font-bold' > 
             
               <a href="#">
               <span>Home</span>

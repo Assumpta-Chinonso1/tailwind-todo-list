@@ -10,7 +10,7 @@ const App = () => {
       <div> {/*--Start of the navigation bar --*/}
          <nav>
           <div>
-            <h1 className='font-bold uppercase p-4'>
+            <h1 className='font-bold uppercase p-4 border-b border-gray-100'>
               <a href="/">Tailwind</a>
             </h1>
           </div>

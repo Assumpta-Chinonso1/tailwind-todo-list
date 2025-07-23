@@ -35,7 +35,7 @@ const App = () => {
          </nav>
       </div>  {/*---End of the navigation bar---*/}
 
-       <main>
+       <main className='px-16 py-16' >
         <div>
           <a href="#">Log in</a>
           <a href="#">Sign up</a>

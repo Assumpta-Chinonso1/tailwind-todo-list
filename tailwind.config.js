@@ -7,18 +7,18 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#8758ff", // Your favorite purple shade
-        secondary: "#ff58a6", // A complementary pink
+        primary: "#8758ff",
+        secondary: "#ff58a6", 
       },
       fontFamily: {
-        poppins: ["Poppins", "sans-serif"], // Add Poppins font
+        poppins: ["Poppins", "sans-serif"], 
       },
       spacing: {
         128: "32rem",
         144: "36rem",
       },
       screens: {
-        xs: "480px", // Extra small screen
+        xs: "480px", 
       },
     },
   },

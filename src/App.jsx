@@ -47,7 +47,7 @@ const App = () => {
         </header>
 
         <div>
-          <h4 className='font-bold mt-4 pb-5 border-b'>Your go-to resource for Tailwind CSS</h4>
+          <h4 className='font-bold mt-4 pb-5 border-b border-gray-200'>Your go-to resource for Tailwind CSS</h4>
          
             {/* Cards go here */}
             <div className='mt-8'>
@@ -60,7 +60,7 @@ const App = () => {
           </div>
         </div>
         <div className='mt-8'>
-          <h4 className='font-bold mt-4 pb-5 border-b'>Your go-to resource for Tailwind CSS</h4>
+          <h4 className='font-bold mt-4 pb-5 border-b border-gray-200'>Your go-to resource for Tailwind CSS</h4>
         </div>
               <div>
                 {/* Additional card added here */}

@@ -3,7 +3,7 @@ import image1 from './assets/tailwind.jpg'
 
 const App = () => {
   return (
-    <div className='text-black-500' >
+    <div className='text-gray-700' >
 
       
 

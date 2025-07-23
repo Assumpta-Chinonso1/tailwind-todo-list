@@ -1,4 +1,5 @@
 import React from 'react'
+import image1 from './assets/tailwind.jpg'
 
 const App = () => {
   return (
@@ -49,7 +50,7 @@ const App = () => {
          
             {/* Cards go here */}
             <div>
-            <img src="" alt="" srcset="" />
+            <img src={image1} alt="" srcset="" />
             
                <div>
                 <span>Card Title</span>
